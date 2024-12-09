@@ -1,0 +1,5 @@
+AWS codepipeline
+AWS Indentity Management
+AWS Coud Foundation
+Fintech Embeded Finance
+Selenium fundamental
